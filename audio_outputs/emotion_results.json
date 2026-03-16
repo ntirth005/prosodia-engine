@@ -1,0 +1,30 @@
+[
+  {
+    "phrase": "I am really sorry for the delay",
+    "emotion": "sadness",
+    "confidence": 0.9759,
+    "distribution": {
+      "sadness": 0.975934624671936,
+      "surprise": 0.008974933996796608,
+      "neutral": 0.007281019818037748,
+      "fear": 0.0023392783477902412,
+      "disgust": 0.0022431043907999992,
+      "anger": 0.0016857708105817437,
+      "joy": 0.001541260164231062
+    }
+  },
+  {
+    "phrase": "but we will fix this immediately",
+    "emotion": "sadness",
+    "confidence": 0.5042,
+    "distribution": {
+      "sadness": 0.5042468905448914,
+      "neutral": 0.40081706643104553,
+      "anger": 0.04326491430401802,
+      "fear": 0.02271369658410549,
+      "surprise": 0.01650824397802353,
+      "disgust": 0.008086491376161575,
+      "joy": 0.004362665582448244
+    }
+  }
+]
